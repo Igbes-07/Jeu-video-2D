@@ -1,0 +1,9 @@
+sceneSetups:
+- path: Assets/Jeu-video-2D.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
+- path: Assets/Scenes/SAE402.unity
+  isLoaded: 1
+  isActive: 0
+  isSubScene: 0
