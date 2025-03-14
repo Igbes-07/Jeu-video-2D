@@ -438,6 +438,7 @@
 "Assets/Scripts/CurrentSceneManager.cs"
 "Assets/Scripts/Enemy.cs"
 "Assets/Scripts/EnemyPatrol.cs"
+"Assets/Scripts/HealthBar.cs"
 "Assets/Scripts/MyScript.cs"
 "Assets/Scripts/PlayerHealth.cs"
 "Assets/Scripts/PlayerMovement.cs"
